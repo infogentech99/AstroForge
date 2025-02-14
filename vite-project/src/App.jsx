@@ -94,7 +94,7 @@ const SpaceMiningWebsite = () => {
           muted
           loop
           playsInline
-          src="video.mp4"
+          src="/video.mp4"
         />
       </div>
 
@@ -250,7 +250,7 @@ const SpaceMiningWebsite = () => {
                   muted
                   loop
                   playsInline
-                  src="asteroid-video.mp4"
+                  src="/asteroid-video.mp4"
                 />
                 <div className="absolute inset-0 bg-gradient-to-br " />
               </div>
