@@ -252,7 +252,7 @@ const SpaceMiningWebsite = () => {
                   playsInline
                   src="asteroid-video.mp4"
                 />
-                <div className="absolute inset-0 bg-gradient-to-br from-orange-500/20 to-transparent" />
+                <div className="absolute inset-0 bg-gradient-to-br " />
               </div>
             </div>
           </div>
